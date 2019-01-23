@@ -23,6 +23,17 @@ A full list of all the tool descriptions can downloaded as a pdf here:
 - [View online](https://github.com/ExcelTitan/TitanTools/blob/master/TitanTools_Descriptions.pdf)
 - [Download](https://github.com/ExcelTitan/TitanTools/raw/master/TitanTools_Descriptions.pdf)
 
+## Browse for the Addin Folder
+To manually locate the default Excel AddIns folder, follow the steps below.
+
+- Click the Developer tab on the Excel Ribbon. If it isn't visible, follow the steps here.
+- Click the Add-Ins command
+- In the Add-Ins window, select any add-in in the list, and click the Browse button. That will open the Browse window, at the AddIns folder.
+- Right-click on the path at the top of the Browse window, and click "Copy Address as Text"
+- Click Cancel, to close the Browse window
+- Click Cancel, to close the Add-Ins window.
+-Open Windows Explorer, and paste the copied address into the address bar, then press Enter
+
 ## Installation
 
 - Unzip the zip file to extract the contents
